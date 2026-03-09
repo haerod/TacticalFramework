@@ -1,0 +1,11 @@
+{
+    "name": "Echoh.Tacticalframework.Tests",
+    "references": [
+        "Echoh.Tacticalframework"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

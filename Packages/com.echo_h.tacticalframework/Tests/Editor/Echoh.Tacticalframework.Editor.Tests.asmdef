@@ -1,0 +1,14 @@
+{
+    "name": "Echoh.Tacticalframework.Editor.Tests",
+    "references": [
+        "Echoh.Tacticalframework.Editor",
+        "Echoh.Tacticalframework"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

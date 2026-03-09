@@ -1,0 +1,10 @@
+{
+    "name": "Echoh.Tacticalframework.Editor",
+    "references": [
+      "Echoh.Tacticalframework"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
